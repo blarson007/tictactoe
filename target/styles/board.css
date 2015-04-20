@@ -1,0 +1,44 @@
+.topLeft {
+	-fx-border-color: #000000 #000000 #000000 #000000;
+    -fx-border-width: 0 2 2 0;
+}
+
+.topMiddle {
+	-fx-border-color: #000000 #000000 #000000 #000000;
+    -fx-border-width: 0 2 2 2;
+}
+
+.topRight {
+	-fx-border-color: #000000 #000000 #000000 #000000;
+    -fx-border-width: 0 0 2 2;
+}
+
+.middleLeft {
+	-fx-border-color: #000000 #000000 #000000 #000000;
+    -fx-border-width: 2 2 2 0;
+}
+
+.middleMiddle {
+	-fx-border-color: #000000 #000000 #000000 #000000;
+    -fx-border-width: 2 2 2 2;
+}
+
+.middleRight {
+	-fx-border-color: #000000 #000000 #000000 #000000;
+    -fx-border-width: 2 0 2 2;
+}
+
+.bottomLeft {
+	-fx-border-color: #000000 #000000 #000000 #000000;
+    -fx-border-width: 2 2 0 0;
+}
+
+.bottomMiddle {
+	-fx-border-color: #000000 #000000 #000000 #000000;
+    -fx-border-width: 2 2 0 2;
+}
+
+.bottomRight {
+	-fx-border-color: #000000 #000000 #000000 #000000;
+    -fx-border-width: 2 0 0 2;
+}
